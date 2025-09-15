@@ -68,9 +68,7 @@ Download the Kaggle dataset and place it in the correct folder.
 ## References
 
 - Kaggle Dataset: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)[2]
-- Related GitHub Projects:
-  - https://github.com/inuwamobarak/chest-xray-pneumonia-detection
-  - https://github.com/nathan-vo810/Pneumonia-Detection-from-Chest-X-Rays
+
 
 ---
 
